@@ -418,5 +418,5 @@ FodyWeavers.xsd
 *.msp
 
 !bin/
-!bin/*.dll
+!binary/bin/*.dll
 !bin/*.lib
