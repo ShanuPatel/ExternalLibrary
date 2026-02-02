@@ -1,6 +1,7 @@
 # ExternalLibrary
 
-Collection of third-party libraries for **OpenGL** with **CMake**.
+A lightweight OpenGL external dependency setup that makes using OpenGL with CMake simple and beginner-friendly.
+This project helps you quickly integrate common libraries and focus on learning and building, not fighting build systems.
 
 ---
 
